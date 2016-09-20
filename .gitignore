@@ -44,7 +44,7 @@ Desktop.ini
 ######################
  
 *.pydevproject
-.project
+#.project
 .metadata
 .recommenders
 bin/**
@@ -63,7 +63,7 @@ local.properties
 .externalToolBuilders/
  
 # Locally stored "Eclipse launch configurations"
-*.launch
+#*.launch
  
 # CDT-specific
 .cproject
