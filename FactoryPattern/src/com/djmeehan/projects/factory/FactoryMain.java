@@ -10,7 +10,7 @@ public class FactoryMain {
 
 	public static void main(String[] args) {
 
-		/* Behaviour is determined by object type
+		/* Behaviour is determined by object type.
 		 *  In future, if we need to change or add an OS type, code change/recompile
 		 *  required. type keyword is exposed. 
 		 */
